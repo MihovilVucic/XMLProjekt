@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Home</title>
+
+</head>
+<body>
+    <div style="width: 50%; margin-left: 250px; text-align: center;">
+
+        <h1>Dobrodošli u Workbench! <img src="logo.jpg" style="height: 65px; width: 49px;" /></h1>
+
+        <p>
+            Ova aplikacija je još u izradi. Za sada postoji mogućnost dekodiranja i <br />
+            enkodiranja u i iz base64 formata. Validacija JSONa, XMLa, JSON i XML formi, <br />
+            XOR enkripcija i druge korisne funkcije su u izradi.
+        </p>
+        <hr style="width: 75%"/><hr style="width: 75%" />
+        <br />
+        <a href="http://localhost:54426/Stranica.aspx">Base64 dekodiranje i enkodiranje</a>
+
+    </div>
+
+</body>
+</html>
